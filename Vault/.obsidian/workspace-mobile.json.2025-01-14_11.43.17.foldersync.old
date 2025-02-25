@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "7894904311514837",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac2b1dd41c663354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6b99bd31ea55aa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 - Attractions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.0 - Attractions"
+            }
+          },
+          {
+            "id": "fd0811ed5a92bbe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Sort.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Sort"
+            }
+          },
+          {
+            "id": "83ba6115e6758232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To sort 2.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To sort 2"
+            }
+          },
+          {
+            "id": "7af9db0842814d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Food"
+            }
+          },
+          {
+            "id": "6327d24779f38fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Restaurants.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Restaurants"
+            }
+          },
+          {
+            "id": "f9084296f70770d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Palma to see.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Palma to see"
+            }
+          },
+          {
+            "id": "3c2fae201ad6fd65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mallorca to see.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mallorca to see"
+            }
+          },
+          {
+            "id": "17558cc5a764b417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Famous people.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Famous people"
+            }
+          },
+          {
+            "id": "16e8ca942230f879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itinerary/Flight WAW-PMI.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Flight WAW-PMI"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f2cf3abbbc049c5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4b6a8436b60af68f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3d657095ac5f8ae3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "969ce0d8975ad947",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "dd5a28a8ccd60e1d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d050789d4a5c4ba3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a9d9baad44e9c50a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0.2 - Car Rental.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2734c0ec97d71ca3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "fe2fa5f1498e2afc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-map-view:Open map view": false
+    }
+  },
+  "active": "16e8ca942230f879",
+  "lastOpenFiles": [
+    "0.0 - Itinerary.md",
+    "Restaurants.md",
+    "1.1 - Food.md",
+    "Palma to see.md",
+    "1.0 - Attractions.md",
+    "L0 - Itinerary.md",
+    "0.2 - Car Rental.md",
+    "0.1 - Flight WAW-PMI.md",
+    "Shows museums.md",
+    "Famous people.md",
+    "Mallorca to see.md",
+    "To sort 2.md",
+    "To Sort.md",
+    "Attachments/00322360-b929-11ef-a839-67671703aaaa (1).pdf",
+    "Location added on 2025-01-05T13-28.md",
+    "Attachments/Screenshot_20250105-165918.png",
+    "Templates/Car Rental.md",
+    "Attachments/Screenshot_20250105-162342~3.png",
+    "Attachments",
+    "Screenshot_20250105-162342~2 1.png",
+    "Screenshot_20250105-162342~2.png",
+    "Templates/Flight.md",
+    "Templates",
+    "Welcome.md"
+  ]
+}

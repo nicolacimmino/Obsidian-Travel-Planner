@@ -1,0 +1,23 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Flight": "text",
+    "Parent": "datetime",
+    "Pickup": "datetime",
+    "DropOff": "datetime",
+    "BookingRef": "text",
+    "Phone": "text",
+    "Departure": "datetime",
+    "Arrival": "datetime",
+    "Checkin": "datetime",
+    "Checkout": "datetime",
+    "Start": "datetime",
+    "End": "datetime",
+    "Leg": "text",
+    "ArriveBy": "datetime",
+    "Arrive By": "datetime",
+    "Origin": "text"
+  }
+}

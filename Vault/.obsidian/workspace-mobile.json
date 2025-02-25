@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "7894904311514837",
+    "type": "split",
+    "children": [
+      {
+        "id": "0901db9d218a4b06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60fd08772e8fb68a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - Plan/0.0 - Itinerary.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "0.0 - Itinerary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f2cf3abbbc049c5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4b6a8436b60af68f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3d657095ac5f8ae3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "969ce0d8975ad947",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "dd5a28a8ccd60e1d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d050789d4a5c4ba3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a9d9baad44e9c50a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0 - Plan/0.0 - Itinerary.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2734c0ec97d71ca3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "fe2fa5f1498e2afc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "174840938b01981e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-map-view:Open map view": false
+    }
+  },
+  "active": "174840938b01981e",
+  "lastOpenFiles": [
+    "0 - Plan/0.9 - Route Brainstorm.md",
+    "0 - Plan/0.0 - Itinerary.md",
+    "0 - Plan/Subchapters/Example Bus 1.md",
+    "Incoming.md",
+    "1 - Know/1.4 - Cambodia/1.4.2 - Culture.md",
+    "Attachments/Color3.png",
+    "Attachments/Color4.png",
+    "Attachments/Color1.png",
+    "Attachments/Color2.png",
+    "Attachments/Cambodia Map.png",
+    "Attachments/Angkor Map.png",
+    "1 - Know/1.4 - Cambodia/Subchapters/Angkor.md",
+    "1 - Know/1.4 - Cambodia/Subchapters",
+    "0 - Plan/0.10 - Links.md",
+    "1 - Know/1.0 - General/1.0.1 - Buddhism.md",
+    "1 - Know/1.7 - Events/1.7.2 - Bhutan/1.7.2.1 Thimphu Tshechu Festival.md",
+    "1 - Know/1.2 - Bhutan/1.2.6 - Events.md",
+    "1 - Know/1.2 - Bhutan/Subchapters/Thimphu Tshechu Festival.md",
+    "Incoming bhutan.md",
+    "1 - Know/To sort.md",
+    "1 - Know/1.7 - Events/1.7.0 - Events.md",
+    "0.0 - Itinerary.md",
+    "Logbook/2025-01-31T15-07.md",
+    "0.2 - Packing List.md",
+    "Itinerary/Flight PMI-WAW.md",
+    "Logbook/2025-02-02T10-49.md",
+    "Itinerary/Bus WAW-Lomza.md",
+    "Itinerary/Car Rental.md",
+    "1.0.1 - Palma - Sóller Railway.md",
+    "Logbook/2025-02-01T19-43.md",
+    "Logbook/2025-02-01T13-36.md",
+    "Logbook/2025-02-01T12-33.md",
+    "Logbook/2025-02-01T10-44.md",
+    "Attachments/SollerTrain.pdf",
+    "Attachments/PXL_20250131_104736990.MP 1.jpg",
+    "Attachments/PXL_20250131_104736990.MP.jpg",
+    "Attachments/boarding-pass-natalia-pmi-waw.pdf",
+    "Attachments/Entradas.pdf",
+    "Attachments/Cuevas-visitas-ENG-triptico-2022-web-2 1.jpg",
+    "Attachments/Cuevas-visitas-ENG-triptico-2022-web-1 1.jpg",
+    "Attachments/Brochure.pdf",
+    "Attachments/Flamenco_ZVMRD0Y4329R.pdf",
+    "Logbook",
+    "Attachments/zak_lom_waw_2025_01_00018218.pdf",
+    "Attachments/00322360-b929-11ef-a839-67671703aaaa (1).pdf",
+    "Attachments"
+  ]
+}
