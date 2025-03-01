@@ -5,9 +5,9 @@ Destination:
 Departure: 
 Arrival: 
 Booking Ref: 
-Type: Bus
 tags:
   - itinerary
+  - missing
 ---
 
 ### Tickets

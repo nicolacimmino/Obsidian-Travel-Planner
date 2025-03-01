@@ -6,10 +6,10 @@ Booking Ref:
 Name: 
 Address: 
 MealOptions: 
-Type: 
 tags:
   - accomodation
   - itinerary
+  - missing
 ---
 
 %%

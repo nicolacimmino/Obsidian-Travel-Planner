@@ -1,14 +1,15 @@
 ---
 Planned At: 
 Origin: 
-Destination:
+Destination: 
 Departure: 
 Arrival: 
-Flight No:
+Flight No: 
 PNR: 
-Type: Flight
 tags:
   - itinerary
+  - flight
+  - missing
 ---
 This link is auto-generated based on your flight number and will take you directly to Flight-Radar live flight info.
 `= elink(join(list("https://www.flightradar24.com/data/flights/",lower(replace(this.flight-no, " ", ""))), ""), join(list("Live Info",this.flight-no), " "))`
