@@ -1,0 +1,11 @@
+@import url('https://fontlibrary.org/face/dejavu-sans-mono');
+
+.itinerary-entry {
+    font-size: 1.2em;
+    font-family: 'Dejavu Sans Mono', monospace;
+    font-variant-numeric: tabular-nums lining-nums;
+    font-kerning:none;
+    list-style-type: none;
+    white-space:pre;
+	margin: 0px !important;
+}

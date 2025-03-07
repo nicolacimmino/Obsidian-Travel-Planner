@@ -1,6 +1,7 @@
 {
   "baseFontSize": 14,
   "enabledCssSnippets": [
-    "tables"
+    "tables",
+    "itinerary"
   ]
 }

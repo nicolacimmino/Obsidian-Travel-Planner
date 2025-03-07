@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "0 - Plan/0.0 - Itinerary.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -157,12 +157,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "18a8948d8c2885e5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "076cf696dcd23b25",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -172,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -193,6 +203,8 @@
   },
   "active": "4a430f97bba391b1",
   "lastOpenFiles": [
+    "9 - Templates/Accommodation.md",
+    "0 - Plan/0.0 - Itinerary.md",
     "9 - Templates/Log Entry.md",
     "9 - Templates/Hotel.md",
     "9 - Templates/Flight.md",
@@ -204,7 +216,6 @@
     "0 - Plan/0.7 - Missing Reservations.md",
     "0 - Plan/0.3 - Formalities.md",
     "0 - Plan/0.2 - Packing List.md",
-    "0 - Plan/0.0 - Itinerary.md",
     "0 - Plan/Subchapters/Flight AAA-ZZZ.md",
     "0 - Plan/Subchapters/Flight ZZZ-AAA.md",
     "0 - Plan/Subchapters/Hotel in ZZZ.md",
@@ -218,7 +229,6 @@
     "0 - Plan/Subchapters/Caves.md",
     "0 - Plan/Subchapters/Bus CityA-CityB.md",
     "0 - Plan/Subchapters/Bus WAW-Lomza.md",
-    "9 - Templates/Land Transport.md",
     "9 - Templates/css/tables.css",
     "9 - Templates/css/New Text Document.txt",
     "9 - Templates/css",
